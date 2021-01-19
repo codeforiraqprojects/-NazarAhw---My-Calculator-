@@ -1,0 +1,35 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#AnchorPane {
+    -fx-background-color: white;
+}
+
+#lblResult
+{
+    -fx-background-color: gainsboro;
+}
+
+#button {
+    -fx-background-color: gainsboro;
+    -fx-font-size: 20 px;
+    -fx-pref-width: 90px;
+}
+
+#buttonOP {
+    -fx-background-color: brown;
+    -fx-font-size: 20 px;
+    -fx-pref-width: 90px;
+    -fx-text-fill: white;
+}
+
+#lblResult{
+    -fx-font-size: 20 px;
+-fx-alignment : TOP_LEFT;
+}
+
+#checkbox {
+    -fx-background-color: gainsboro;
+    -fx-font-size: 20 px;
+    }
